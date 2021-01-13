@@ -12,6 +12,9 @@ Link other .md files (relative links) about each technology/standard;
 - Docker
 - SQL
 - Web Standards
+- HTML
+- CSS
+- JS
 - Laravel - API
 - Laravel - BO / FO & BO
 - Vuejs
