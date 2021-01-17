@@ -55,6 +55,16 @@ _____________________________________
 7. Use as clarification of code.
 8. Use as warning of consequences.
 
+# Section 2 - Version Control
+
+Git is essential for any team working synchronously on a single codebase. It keeps each developer focused on their work without needing to worry about changes being made by their co-developers, while also allowing for easy resolution of conflicts when completed features are ready to be incorporated into the working codebase.
+
+The best book available come from the git website itself written by git evangelists [Scott Chacon](https://www.oreilly.com/pub/au/3843) and [Ben Straub](https://www.oreilly.com/pub/au/6519) - [Pro Git](https://git-scm.com/book/en/v2)
+
+## When to use git
+
+**All projects must use git.** A project may be a monorepo (everything in one repository) or a polyrepo (different features/services spread across different repositories). **No exceptions.**
+
 <!--
 TODO:
 
